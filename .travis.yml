@@ -27,7 +27,7 @@ before_install:
 
 install:
     - travis_wait pip install .
-    - travis_wait pip install .tests
+    - travis_wait pip install .[docs,tests]
     - pip install coverage
     - pip install tox
     - wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz
