@@ -2,6 +2,7 @@
 [![codecov](https://codecov.io/gh/tomazc/iCount/branch/master/graph/badge.svg?token=JhUJ66rnJ3)](https://codecov.io/gh/tomazc/iCount)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bb21b3cc5fcd420c885ed12bf8393065)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tomazc/iCount&amp;utm_campaign=Badge_Grade)
 [![Documentation Status](https://readthedocs.org/projects/icount/badge/?version=latest)](http://icount.readthedocs.io/en/latest/?badge=latest)
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/tomazc/icount/)
 
 # iCount: protein-RNA interaction analysis
 
@@ -39,6 +40,3 @@ refactoring and improving the code. For details, see the
 
 Contributions (pull requests) are welcome! Please submit your contributions by following the
 [guidelines](http://icount.readthedocs.io/en/latest/contributing.html).
-
-
-test3
